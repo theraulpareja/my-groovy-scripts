@@ -1,7 +1,7 @@
-#my Groovy Scripts
+# my Groovy Scripts
 Just a collection of groovy scripts for jenkins administration tasks
 
-###How to run them
+### How to run them
 You will need to setup in your workstation the right jenkins_id_rsa key to run the jenkins-cli.jar groovy scripts, 
 and be able to connect to the jenkins master via ssh key pair.
 
