@@ -1,0 +1,5 @@
+#Don't track hidden groovy files
+._*.groovy
+
+#Don't track jenkinscli
+._*.jar
